@@ -9,7 +9,6 @@ DrumKit is a fun and interactive web-based music project built using **HTML**, *
 - Responsive and engaging drum interface
 - Plays different drum sounds based on button/key pressed
 - Supports both **mouse click** and **keyboard press**
-- Smooth animations for a better user experience
 
 ---
 
@@ -17,7 +16,7 @@ DrumKit is a fun and interactive web-based music project built using **HTML**, *
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript
 - Audio files for drum sounds
 
 ---
@@ -41,15 +40,6 @@ drumkit/
 └── sounds/          # Folder containing drum sound files (.mp3/.wav)
 ```
 
----
-
-## 📷 Screenshot
-
-![DrumKit Screenshot](screenshot.png)  
-*(Include a screenshot image in your project folder for visual reference)*
-
----
-
 ## 📌 Notes
 
 - Make sure the sound files are correctly linked and supported by the browser.
@@ -62,7 +52,3 @@ drumkit/
 This project was created as part of my web development learning journey. Feel free to use, modify, or expand on it!
 
 ---
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
